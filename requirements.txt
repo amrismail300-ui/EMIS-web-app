@@ -1,2 +1,2 @@
-streamlit1.32.0
-pandas2.2.1
+streamlit
+pandas
